@@ -11,6 +11,6 @@ Em transição para Analista de Dados Jr, possuo conhecimento e experiencias em 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhuan-francisco&repo=Analise-de-Vendas---Loja-Streetwear.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhuan-francisco&repo=Analise-de-Vendas---Loja-Streetwear&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
