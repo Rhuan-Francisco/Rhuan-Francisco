@@ -1,4 +1,11 @@
 ### Olá 👋
 
+
 ###### Sobre Rhuan
 Em transição para Analista de Dados Jr, possuo conhecimento e experiencias em Python, Pandas, Matplotlib, Seaborn, SQL e outros.
+
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuan-francisco&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
